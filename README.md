@@ -1,6 +1,6 @@
-# Employee Table
+# Codeigniter API Sample
 
-This README provides information about the `employees` table, which is a sample table used for a datatable demo. It includes details about the table's structure and sample data.
+This README provides information about the way to create a basic CRUD operation rest API using codeigniter 4.
 
 ## Table Structure
 
